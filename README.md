@@ -15,3 +15,6 @@ This can be accomplished by calling:
 town.init_grid(red_f = 0.43, blue_f = 0.43)
 ```
 Finally the simulation can be run by calling ```town.update()``` for an appropriate number of time steps. (Around ```300000``` for a ```100*100``` grid). 
+
+## Example simulation results.  
+![Example simulation results.](https://raw.githubusercontent.com/lennon-phys/bentham_assessment/main/example.png)
