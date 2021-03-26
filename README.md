@@ -16,7 +16,7 @@ town.init_grid(red_f = 0.43, blue_f = 0.43)
 ```
 The parameters ```red_f``` and ```blue_f``` set the percentage of the total number of grid sites that are initially occupied by red or blue houses. 
 
-Finally the simulation can be run by calling ```town.update()``` for an appropriate number of time steps. (Around ```300000``` for a ```100*100``` grid). 
+Finally the simulation can be run by calling ```town.update()``` for an appropriate number of time steps (around ```300000``` for a ```100*100``` grid). 
 
-## Example simulation results.  
+## Example simulation results  
 ![Example simulation results.](https://raw.githubusercontent.com/lennon-phys/bentham_assessment/main/example.png)
